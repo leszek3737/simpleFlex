@@ -28,4 +28,7 @@
         font-weight: 600;
         color: $text-color;
     }
+    &.active {
+        transform: scale(1.15);
+    }
 }
