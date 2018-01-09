@@ -1,5 +1,10 @@
 $bg-color: #599C9A;
 $bg-box: #ffffff;
+$bg-logo: #eeeeee;
+$bg-title: #fafafa;
+$box-width: 30rem;
+$box-height: 35rem;
+$text-color: #424242;
 
 //reset css
 html,
@@ -89,6 +94,8 @@ video {
     font-size: 100%;
     font: inherit;
     vertical-align: baseline;
+    color: #000000;
+    text-decoration: none;
 }
 
 
